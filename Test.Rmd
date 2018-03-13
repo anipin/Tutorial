@@ -25,6 +25,7 @@ You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
 # adding comment 
+# adding new comment
 plot(pressure)
 ```
 
